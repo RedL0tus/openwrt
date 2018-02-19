@@ -45,7 +45,7 @@ get_status_led() {
 	tl-wr942n-v1|\
 	wpj344|\
 	zbt-we1526|\
-  zsun-sdreader)
+	zsun-sdreader)
 		status_led="$board:green:status"
 		;;
 	ap136-010|\

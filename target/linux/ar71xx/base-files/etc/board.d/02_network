@@ -141,7 +141,7 @@ ar71xx_setup_interfaces()
 	wi2a-ac200i|\
 	wndap360|\
 	wp543|\
-  zsun-sdreader)
+	zsun-sdreader)
 		ucidef_set_interface_lan "eth0"
 		;;
 	a40|\
